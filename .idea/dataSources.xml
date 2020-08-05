@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Chinook_Sqlite" uuid="e291806e-36ca-4f49-8328-771631e94990">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\jsalom\IdeaProjects\SQL\src\main\resources\Chinook_Sqlite.sqlite</jdbc-url>
+    </data-source>
+  </component>
+</project>
